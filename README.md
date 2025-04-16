@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Sai Soe San! 👋  
+## Hi, I'm Sai Soe San! 👋  
 **Software Engineer | Full Stack Developer | Problem Solver**  
 
 Welcome to my GitHub profile! I'm a motivated software engineer with over 6 years of experience building and maintaining scalable web applications. I specialize in creating user-friendly and efficient solutions that make clients happy.  
