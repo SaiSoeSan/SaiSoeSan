@@ -74,7 +74,7 @@ Beyond development, I am a lifelong learner who thrives on exploring new technol
 
 ## 📂 **Featured Projects**  
 
-### [JobTracker](https://github.com/saisoesan/jobtracker)  
+### [JobTracker](https://github.com/saisoesan/job-tracker)  
 A job application tracking system to manage and organize job applications effectively.  
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: Laravel, MySQL  
