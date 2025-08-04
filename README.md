@@ -80,7 +80,7 @@ A job application tracking system to manage and organize job applications effect
 - **Backend**: Laravel, MySQL  
 - **Hosting**: Backend on Laravel Forge, frontend as a static site on AWS S3  
 
-### [MyFlix](https://github.com/saisoesan/myflix)  
+### [MyFlix](https://github.com/saisoesan/movieHub)  
 A movie browsing app featuring user favorites and detailed movie pages.  
 - **Frontend**: React, React Router, Movie Slider Plugin  
 - **Backend**: Node.js, MongoDB  
