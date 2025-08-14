@@ -91,7 +91,6 @@ A movie browsing app featuring user favorites and detailed movie pages.
 
 ## 🤝 **Let's Connect**  
 - 📧 **Email**: [saisoesan.dev@gmail.com](mailto:saisoesan.dev@gmail.com)  
-- 🌐 **Portfolio**: [Portfolio](https://my-portfolio-cyan-delta-76.vercel.app/)  
 - 💼 **LinkedIn**: [Sai Soe San](https://www.linkedin.com/in/sai-soe-san-886188199/)  
 - 🖥️ **GitHub**: [github.com/SaiSoeSan](https://github.com/SaiSoeSan)  
 
