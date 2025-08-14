@@ -67,8 +67,7 @@ Beyond development, I am a lifelong learner who thrives on exploring new technol
   - Developed personal projects like **JobTracker** and **MyFlix** for tracking job applications and exploring movies.
 
 ### 🌱 Currently Learning
-  - Exploring AWS Cloud technologies.  
-  - Building applications in **Golang**.  
+  - Exploring AWS Cloud technologies.
 
 ---
 
