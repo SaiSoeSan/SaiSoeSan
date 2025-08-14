@@ -1,7 +1,7 @@
 ## Hey, I'm Sai Soe San! 👋  
 **Software Engineer | Full Stack Developer | Problem Solver**  
 
-I am a passionate and dedicated software engineer with 5+ years of experience building scalable, secure, and user-friendly web applications. I specialize in crafting innovative solutions that solve real-world problems, integrating third-party APIs, optimizing database performance, and enhancing web security to exceed client expectations. 
+I am a passionate and dedicated software engineer with 6+ years of experience building scalable, secure, and user-friendly web applications. I specialize in crafting innovative solutions that solve real-world problems, integrating third-party APIs, optimizing database performance, and enhancing web security to exceed client expectations. 
 
 Beyond development, I am a lifelong learner who thrives on exploring new technologies and overcoming challenges to grow as a developer. Thank you for visiting my profile—let’s create something amazing together!
 
